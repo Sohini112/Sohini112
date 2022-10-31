@@ -12,13 +12,10 @@
 
 <p align="left"> <a href="https://twitter.com/sohinir02904469" target="blank"><img src="https://img.shields.io/twitter/follow/sohinir02904469?logo=twitter&style=for-the-badge" alt="sohinir02904469" /></a> </p>
 
-- 🌱 I’m currently learning **Linux**
-
-- 💬 Ask me about **front end design**
-
-- 📫 How to reach me **sohini.kol40@gmail.com**
-
-- ⚡ Fun fact **I am a K-POP fan.**
+- 🌱 I’m currently learning :  **Linux**
+- 💬 Ask me about :  **Front-end design**
+- 📫 How to reach me :  **sohini.kol40@gmail.com**
+- ⚡ Fun fact :  **I am a K-POP fan.**
 
 
 [![@sohini112's Holopin board](https://holopin.me/sohini112)](https://holopin.io/@sohini112)
