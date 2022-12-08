@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohini112&label=Profile%20views&color=0e75b6&style=flat" alt="sohini112" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohini112&label=PROFILE+VIEWS&color=ff69b4&style=plastic" alt="sohini112" /> </p>
+
+<p align="left"> <a href="https://twitter.com/sohinir02904469" target="blank"><img src="https://img.shields.io/twitter/follow/sohinir02904469?logo=twitter&color=ff69b4&style=plastic" alt="sohinir02904469" /></a> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/sohinir02904469" target="blank"><img src="https://img.shields.io/twitter/follow/sohinir02904469?logo=twitter&style=for-the-badge" alt="sohinir02904469" /></a> </p>
 
 - 📖 I’m currently learning :  **Linux**
 - 💬 Ask me about :  **Front-end design**
