@@ -1,49 +1,93 @@
-\
-![Banner](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="80%">
+</div>
 
-<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sohini Roy <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohini112&label=PROFILE+VIEWS&color=ff69b4&style=plastic" alt="sohini112" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sohinir02904469" target="blank"><img src="https://img.shields.io/twitter/follow/sohinir02904469?logo=twitter&color=ff69b4&style=plastic" alt="sohinir02904469" /></a> </p>
-
-
-
-- 📖 I’m currently learning :  **Linux**
-- 💬 Ask me about :  **Front-end design**
-- 📫 How to reach me :  **sohini.kol40@gmail.com**
-- ⚡ Fun fact :  **I am a K-POP fan.**
-
-
-[![@sohini112's Holopin board](https://holopin.me/sohini112)](https://holopin.io/@sohini112)
-
-
----
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Sohini Roy 👩‍💻</h1>
+<h3 align="center">A Dedicated Software Developer Specializing in .NET, C#, JavaScript, and SQL</h3>
 
 ---
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;GitHub Analytics
+### About Me
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohini112&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="sohini112"></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sohini112&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&border=FFFEFE)](https://git.io/streak-stats)
-
+- 🔧 **Proficient in:** .NET, C#, JavaScript, SQL Server, CSS, HTML  
+- 💡 **Currently Exploring:** Advanced .NET Core and Full Stack Development  
+- 💬 **Ask Me About:** Building scalable software solutions, database design, and front-end optimization  
+- 🎯 **Fun Fact:** I enjoy blending creativity with problem-solving in both coding and real life!
 
 ---
 
-<h4 align=center><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> Let's Connect </h4>
+### 🛠 Technical Skills
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/SOHINIR02904469" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/344/twitter-circled.png" height="50" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/sohini_roy98/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/72/instagram-new--v3.png" height="50" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/72/linkedin.png" height="50" width="50" /></a>
-&nbsp; <a href="mailto:sohini.kol40@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/344/gmail.png" height="50"  width="50" /></a>
-</p>
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  </a>
+</div>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohini112&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohini112&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohini112&layout=compact&theme=merko" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://twitter.com/sohinir02904469" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sohini_roy98/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="mailto:sohini.kol40@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" />
+  </a>
+</div>
+
+---
+
+### 🚀 Recent Projects
+
+- **[Project A](https://github.com/sohini112/project-a):** A .NET-based inventory management system with real-time data updates.
+- **[Portfolio Website](https://github.com/sohini112/portfolio):** Responsive design with advanced CSS techniques.
+- **[SQL Analytics Tool](https://github.com/sohini112/sql-tool):** Automates data visualization using SQL queries.
+
+---
+
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 **Completed a .NET Core migration project** in [XYZ Repository](https://github.com/xyz).
+2. 📘 **Published an article on database indexing optimization** on [Medium](https://medium.com/).
+3. 🛠 **Contributed to an open-source library for front-end frameworks.**
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Footer GIF" width="50%" />
+</div>
