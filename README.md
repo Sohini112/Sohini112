@@ -70,19 +70,18 @@
 
 <div align="center">
   <a href="https://twitter.com/sohinir02904469" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter--v1.png" alt="Twitter" />
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter--v1.png" alt="Twitter" width="50" height="50" />
   </a>
   <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://www.instagram.com/sohini_roy98/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E1306C/instagram-new--v1.png" alt="Instagram" />
+    <img src="https://img.icons8.com/ios-filled/50/E1306C/instagram-new--v1.png" alt="Instagram" width="50" height="50" />
   </a>
   <a href="mailto:sohini.kol40@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" alt="Email" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" alt="Email" width="50" height="50" />
   </a>
 </div>
-
 
 ---
 
