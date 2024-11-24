@@ -70,22 +70,24 @@
 
 <div align="center">
   <a href="https://twitter.com/sohinir02904469" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter--v1.png" alt="Twitter" width="50" height="50" />
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter--v1.png" alt="Twitter" width="30" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="50" height="50" />
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://www.instagram.com/sohini_roy98/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E1306C/instagram-new--v1.png" alt="Instagram" width="50" height="50" />
+    <img src="https://img.icons8.com/ios-filled/30/E1306C/instagram-new--v1.png" alt="Instagram" width="30" height="30" />
   </a>
   <a href="mailto:sohini.kol40@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" alt="Email" width="50" height="50" />
+    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail-new.png" alt="Email" width="30" height="30" />
   </a>
 </div>
+
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Motivational GIF" width="50%" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Motivational GIF" width="25%" />
   <p><em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em></p>
 </div>
+
