@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="60%">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="20%">
 </div>
 
 <h1 align="center">Hi <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" width="35">, I'm Sohini Roy <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h1>
