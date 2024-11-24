@@ -1,49 +1,81 @@
+![Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-![Banner](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sohini Roy</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sohini Roy <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohini112&label=PROFILE+VIEWS&color=ff69b4&style=plastic" alt="sohini112" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sohinir02904469" target="blank"><img src="https://img.shields.io/twitter/follow/sohinir02904469?logo=twitter&color=ff69b4&style=plastic" alt="sohinir02904469" /></a> </p>
-
-
-
-- 📖 I’m currently learning :  **Linux**
-- 💬 Ask me about :  **Front-end design**
-- 📫 How to reach me :  **sohini.kol40@gmail.com**
-- ⚡ Fun fact :  **I am a K-POP fan.**
-
-
-[![@sohini112's Holopin board](https://holopin.me/sohini112)](https://holopin.io/@sohini112)
-
-
----
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
-
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;GitHub Analytics
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohini112&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="sohini112"></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sohini112&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&border=FFFEFE)](https://git.io/streak-stats)
-
-
----
-
-<h4 align=center><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> Let's Connect </h4>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/SOHINIR02904469" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/344/twitter-circled.png" height="50" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/sohini_roy98/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/72/instagram-new--v3.png" height="50" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/72/linkedin.png" height="50" width="50" /></a>
-&nbsp; <a href="mailto:sohini.kol40@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/clouds/344/gmail.png" height="50"  width="50" /></a>
+<p align="left">
+  <a href="https://github.com/sohini112">
+    <img src="https://komarev.com/ghpvc/?username=sohini112&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://twitter.com/sohinir02904469">
+    <img src="https://img.shields.io/twitter/follow/sohinir02904469?logo=twitter&style=flat" alt="Twitter Followers" />
+  </a>
 </p>
 
+---
+
+- 🌱 **Currently Learning:** Linux, React.js
+- 💬 **Ask Me About:** Frontend Design, UI/UX Principles
+- 📫 **Reach Me At:** [sohini.kol40@gmail.com](mailto:sohini.kol40@gmail.com)
+- ⚡ **Fun Fact:** I'm a K-POP fan! 🎶
+
+---
+
+<h2 align="center">🛠 Languages and Tools</h2>
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohini112&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohini112&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohini112&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://twitter.com/sohinir02904469" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sohini_roy98/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="mailto:sohini.kol40@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🔥 Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+1. 💬 **Commented on Issue #123** in [OpenAI](https://github.com/openai)
+2. 🚀 **Pushed code to repository** [Portfolio](https://github.com/sohini112/Portfolio)
+3. 🎯 **Opened a new pull request** in [React Project](https://github.com/facebook/react/pull/456)
+<!--END_SECTION:activity-->
+
+---
+
+![Footer GIF](https://media.giphy.com/media/xUPGcmF0xU3F8EEZQA/giphy.gif)
