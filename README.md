@@ -10,7 +10,7 @@
 ### 📜 About Me
 - 📖 **Currently Learning:** Linux  
 - 💬 **Ask Me About:** Frontend design, .NET development, and creating optimized database solutions  
-- 📫 **How to Reach Me:** [sohini.kol40@gmail.com](mailto:sohini.kol40@gmail.com)  
+- 📫 **How to Reach Me:** [sohini1998.in@gmail.com](mailto:sohini1998.in@gmail.com)  
 - ⚡ **Fun Fact:** I'm a passionate K-POP fan 🎶
 
 ---
