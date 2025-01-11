@@ -88,6 +88,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Motivational GIF" width="25%" />
-  <p><em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em></p>
+  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
 </div>
 
