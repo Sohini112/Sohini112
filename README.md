@@ -15,8 +15,6 @@
 - 🎯 Software Developer crafting sleek UIs and robust backend logic  
 - 🧠 Currently exploring: **Linux**, **DevOps basics**, and **system design principles**
 - 💬 Let’s talk about: **.NET development**, **frontend design**, and **SQL optimization**
-- 🌐 Portfolio: [sohini112.github.io/SohiniRoy_Portfolio](https://sohini112.github.io/SohiniRoy_Portfolio)
-- 📫 Email me at: [sohini1998.in@gmail.com](mailto:sohini1998.in@gmail.com)
 - 🎶 K-POP + Code = My happy place 💜
 
 
@@ -64,14 +62,17 @@
 </div>
 -->
 
-<!--
+
 
 ### 🧪 Projects
 
-Most of my hands-on work is showcased here:  
-👉 [View Portfolio Website](https://sohini112.github.io/SohiniRoy_Portfolio)
+> *“Crafted with logic, styled with soul.”*  
+> Dive into the digital world I’m building:
 
--->
+🔗 [**Visit My Portfolio**](https://sohini112.github.io/SohiniRoy_Portfolio)
+
+---
+
 
 ### 🎓 Certifications & Achievements
 
