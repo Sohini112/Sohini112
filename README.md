@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=00C9A7&center=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Sohini+Roy;%F0%9F%92%BB+Code+Whisperer+|+%F0%9F%8E%A8+Pixel+Perfectionist+|+%E2%9A%A1+.NET+Ninja" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=C085F2&center=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Sohini+Roy;%F0%9F%92%BB+Code+Whisperer+|+%F0%9F%8E%A8+Pixel+Perfectionist+|+%E2%9A%A1+.NET+Ninja" alt="Typing SVG" />
 </h3>
 
 
@@ -115,7 +115,7 @@ Most of my hands-on work is showcased here:
 
 <!-- ✨ Animated Typing Heading -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F57C00&center=true&width=435&lines=Let's+Connect+%F0%9F%92%AC;Say+Hi+on+Socials+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=C085F2&center=true&width=435&lines=Let's+Connect+%F0%9F%92%AC;Say+Hi+on+Socials+%F0%9F%91%8B" alt="Typing SVG" />
 </h3>
 
 <!-- 🌐 Social Icons with Hover Effects -->
