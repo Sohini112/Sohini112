@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="30%">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Banner" width="200" />
 </div>
 
-<h1 align="center">Hi, I'm Sohini 👩‍💻</h1>
-<h3 align="center">Software Developer | Frontend Designer | Tech Enthusiast</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#6C63FF;">Sohini Roy</span></h1>
+<h3 align="center">
+💻 Code Whisperer | 🎨 Pixel Perfectionist | ⚡ .NET Ninja
+</h3>
+
+
 
 ---
 
