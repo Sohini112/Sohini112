@@ -2,21 +2,25 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Banner" width="200" />
 </div>
 
-<h1 align="center">Hey there! 👋 I'm <span style="color:#6C63FF;">Sohini Roy</span></h1>
-<h3 align="center">
-💻 Code Whisperer | 🎨 Pixel Perfectionist | ⚡ .NET Ninja
-</h3>
+<div align="center">
+  <h1>Hey there! 👋 I'm <span style="color:#ffffff;">Sohini Roy</span></h1>
+  <h3>💻 Code Whisperer | 🎨 Pixel Perfectionist | ⚡ .NET Ninja</h3>
+</div>
+
 
 
 
 ---
 
-### 📜 About Me
-- 📖 **Currently Learning:** Linux  
-- 💬 **Ask Me About:** Frontend design, .NET development, and creating optimized database solutions  
-- 📫 **How to Reach Me:** [sohini1998.in@gmail.com](mailto:sohini1998.in@gmail.com)  
-- ⚡ **Fun Fact:** I'm a passionate K-POP fan 🎶
-- 💼 **Portfolio :** [sohini112.github.io/SohiniRoy_Portfolio](https://sohini112.github.io/SohiniRoy_Portfolio)
+### 👩‍💻 About Me
+
+- 🎯 Software Developer crafting sleek UIs and robust backend logic  
+- 🧠 Currently exploring: **Linux**, **DevOps basics**, and **system design principles**
+- 💬 Let’s talk about: **.NET development**, **frontend design**, and **SQL optimization**
+- 🌐 Portfolio: [sohini112.github.io/SohiniRoy_Portfolio](https://sohini112.github.io/SohiniRoy_Portfolio)
+- 📫 Email me at: [sohini1998.in@gmail.com](mailto:sohini1998.in@gmail.com)
+- 🎶 K-POP + Code = My happy place 💜
+
 
 ---
 
