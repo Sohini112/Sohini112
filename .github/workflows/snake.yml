@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -12,9 +12,8 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
-          github_user_name: sohini112
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          github_user_name: Sohini112
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
