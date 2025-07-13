@@ -48,7 +48,7 @@
 `Microsoft Excel (Advanced Features)`
 
 ---
-
+<!--
 ### 🖼️ Visual Skill Icons (Just for flair)
 
 <div align="center">
@@ -65,7 +65,7 @@
   <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel Advanced" />
 </div>
-
+-->
 ---
 
 ### 🖥 Projects Showcase
