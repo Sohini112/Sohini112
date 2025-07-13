@@ -25,15 +25,45 @@
 
 ---
 
-### 🛠 My Skills
+
+### 🧰 Tech Stack & Tools
+
+#### 👩‍💻 Languages
+`C#` • `C` • `C++` • `Java` • `Python`
+
+#### 🌐 Web Technologies
+`ASP.NET MVC / Core` • `Blazor` • `JavaScript` • `ReactJS` • `AngularJS`  
+`HTML` • `CSS` • `Bootstrap`
+
+#### 🧩 Frameworks & Libraries
+`.NET Framework 4.0 / 4.8` • `.NET Core 3.1 / 5 / 6 / 7`  
+`Entity Framework`
+
+#### 🗄️ Databases
+`SQL Server` • `MySQL`  
+`Stored Procedures` • `Views` • `Triggers`
+
+#### 🛠 Tools & IDEs
+`Visual Studio` • `SSMS` • `Git` • `VS Code`  
+`Microsoft Excel (Advanced Features)`
+
+---
+
+### 🖼️ Visual Skill Icons (Just for flair)
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" title="C#" />
+  <img src="https://img.icons8.com/color/48/net-framework.png" title=".NET" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" />
+  <img src="https://img.icons8.com/fluency/48/react.png" title="ReactJS" />
+  <img src="https://img.icons8.com/color/48/angularjs.png" title="AngularJS" />
+  <img src="https://img.icons8.com/color/48/blazor.png" title="Blazor" />
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL Server" />
+  <img src="https://img.icons8.com/fluency/48/visual-studio.png" title="Visual Studio" />
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel Advanced" />
 </div>
 
 ---
