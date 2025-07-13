@@ -120,16 +120,16 @@ Most of my hands-on work is showcased here:
 
 <!-- 🌐 Social Icons with Hover Effects -->
 <p align="center">
-  <a href="mailto:sohini.kol40@gmail.com" target="_blank" title="Email Me">
+  <a href="mailto:sohini1998.in@gmail.com" target="_blank" title="Email Me">
     <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail-new.png" alt="Gmail" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/sohini-roy-netdev/" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://twitter.com/sohinir02904469" target="_blank" title="Twitter">
     <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter--v1.png" alt="Twitter" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.instagram.com/sohini_roy98/" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/auraofrebellion/" target="_blank" title="Instagram">
     <img src="https://img.icons8.com/ios-filled/30/E1306C/instagram-new--v1.png" alt="Instagram" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
