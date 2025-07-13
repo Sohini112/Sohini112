@@ -76,10 +76,12 @@ Most of my hands-on work is showcased here:
 
 -->
 
-### 🎓 Certifications
-- **Microsoft Certified: Azure Developer Associate**  
-- **Frontend Development Certification (FreeCodeCamp)**  
-- **SQL for Data Analytics (Coursera)**  
+### 🎓 Certifications & Achievements
+
+- 🐍 **Python Programming Certificate** – Ardent | *2018*  
+- ☕ **Core Java Certificate** – Ardent | *2018*  
+- 🐧 **Linux Training Completion** – Spoken Tutorial, IIT Bombay | *Aug 2017*  
+- 🥉 **Bronze Medalist (5KM)** – UEM-IEM Kolkata Marathon | *2020* 
 
 ---
 
@@ -111,6 +113,7 @@ Most of my hands-on work is showcased here:
 - 🔍 Seeking roles where I can build scalable, user-focused applications.
 - 🧠 Learning modern frameworks like ReactJS & exploring clean architecture.
 - ✍️ Documenting my journey through code snippets & side projects.
+- 🌱 Growing every day through tech, design, and collaboration.
 
 ---
 
