@@ -81,7 +81,7 @@ Most of my hands-on work is showcased here:
 - 🐍 **Python Programming Certificate** – Ardent | *2018*  
 - ☕ **Core Java Certificate** – Ardent | *2018*  
 - 🐧 **Linux Training Completion** – Spoken Tutorial, IIT Bombay | *Aug 2017*  
-- 🥉 **Bronze Medalist (5KM)** – UEM-IEM Kolkata Marathon | *2020* 
+- 🥉 **Bronze Medalist (5KM)** – UEM-IEM Kolkata Marathon | *2020*
 
 ---
 
