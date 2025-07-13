@@ -12,6 +12,7 @@
 - 💬 **Ask Me About:** Frontend design, .NET development, and creating optimized database solutions  
 - 📫 **How to Reach Me:** [sohini1998.in@gmail.com](mailto:sohini1998.in@gmail.com)  
 - ⚡ **Fun Fact:** I'm a passionate K-POP fan 🎶
+- 💼 **Portfolio :** [sohini112.github.io/SohiniRoy_Portfolio](https://sohini112.github.io/SohiniRoy_Portfolio)
 
 ---
 
