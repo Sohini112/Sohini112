@@ -83,13 +83,31 @@ Most of my hands-on work is showcased here:
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohini112&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohini112&theme=material-palenight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohini112&layout=compact&theme=material-palenight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohini112&show_icons=true&theme=dracula&hide_title=false&hide_border=true&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohini112&theme=dracula&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohini112&layout=compact&theme=dracula&hide_border=true" />
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sohini112/sohini112/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+
+
+
+
+
+
 
 ---
 
