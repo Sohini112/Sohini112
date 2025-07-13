@@ -104,18 +104,13 @@ Most of my hands-on work is showcased here:
 -->
 
 
-
-
-
-
-
 ---
 
-### 🌟 Recommendations & Features
+### 🌟 Current Focus
 
-- ⭐ Highlighted as a **Top Contributor** in open-source communities.  
-- 🎤 Frequently share insights in **frontend design webinars**.  
-- 🤝 Open to collaborations on **full-stack projects** and **tech blogs**.
+- 🔍 Seeking roles where I can build scalable, user-focused applications.
+- 🧠 Learning modern frameworks like ReactJS & exploring clean architecture.
+- ✍️ Documenting my journey through code snippets & side projects.
 
 ---
 
