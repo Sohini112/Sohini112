@@ -3,14 +3,9 @@
   <img src="./github-header-image-new.png" alt="GitHub Header" width="100%" />
 </div>
 
-
-<div align="center">
-  <h1>Hey there! 👋 I'm <span style="color:#ffffff;">Sohini Roy</span></h1>
-  <h3>💻 Code Whisperer | 🎨 Pixel Perfectionist | ⚡ .NET Ninja</h3>
-</div>
-
-
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E91E63&center=true&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Sohini+Roy;%F0%9F%92%BB+Code+Whisperer+|+%F0%9F%8E%A8+Pixel+Perfectionist+|+%E2%9A%A1+.NET+Ninja" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -141,7 +136,13 @@ Most of my hands-on work is showcased here:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Motivational GIF" width="25%" />
-  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Mic Drop GIF" width="180px" />
+  <br><br>
+  <em><strong>"Code is like humor — if you have to explain it, it's probably not that good."</strong></em>
+  <br><br>
+  <hr style="width: 60%;">
+  <p><strong>Thanks for stopping by! 👋</strong><br>
+  <em>Let’s build something awesome together.</em></p>
 </div>
+
 
