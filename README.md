@@ -12,10 +12,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎯 Software Developer crafting sleek UIs and robust backend logic  
-- 🧠 Currently exploring: **Linux**, **DevOps basics**, and **system design principles**
-- 💬 Let’s talk about: **.NET development**, **frontend design**, and **SQL optimization**
-- 🎶 K-POP + Code = My happy place 💜
+- 🛠️ .NET Developer with **2+ years of hands-on experience** building full-stack magic  
+- 🎯 Passionate about crafting elegant UIs and writing bulletproof backend logic  
+- 🧠 Currently geeking out on **Linux**, **DevOps workflows**, and **system design fundamentals**  
+- 💬 Love chatting about **.NET architecture**, **frontend finesse**, and **SQL wizardry**  
+- 🎶 Fueled by K-POP beats and caffeine – code flows smoother that way 💜
+
 
 
 ---
