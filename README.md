@@ -66,7 +66,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel Advanced" />
 </div>
 -->
----
+
 <!--
 
 ### 🧪 Projects
@@ -75,9 +75,6 @@ Most of my hands-on work is showcased here:
 👉 [View Portfolio Website](https://sohini112.github.io/SohiniRoy_Portfolio)
 
 -->
-
-
----
 
 ### 🎓 Certifications
 - **Microsoft Certified: Azure Developer Associate**  
