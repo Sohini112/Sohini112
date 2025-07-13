@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="30%">
 </div>
 
-<h1 align="center">Hi, I'm Sohini Roy 👩‍💻</h1>
+<h1 align="center">Hi, I'm Sohini 👩‍💻</h1>
 <h3 align="center">Software Developer | Frontend Designer | Tech Enthusiast</h3>
 
 ---
