@@ -67,17 +67,15 @@
 </div>
 -->
 ---
+<!--
 
-### 🖥 Projects Showcase
+### 🧪 Projects
 
-- **[Project A](https://github.com/sohini112/project-a):**  
-  A .NET-based **inventory management system** that updates data in real time, ensuring smooth user experiences.
-  
-- **[Responsive Portfolio Website](https://github.com/sohini112/portfolio):**  
-  Designed and implemented a **modern portfolio website** using advanced CSS animations and responsive design principles.
+Most of my hands-on work is showcased here:  
+👉 [View Portfolio Website](https://sohini112.github.io/SohiniRoy_Portfolio)
 
-- **[SQL Analytics Tool](https://github.com/sohini112/sql-tool):**  
-  A Python-integrated tool that generates dynamic data visualizations from complex SQL queries.
+-->
+
 
 ---
 
