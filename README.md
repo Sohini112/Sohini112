@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Banner" width="200" />
+  <img src="./github-header-image.png" alt="GitHub Header" width="100%" />
 </div>
+
 
 <div align="center">
   <h1>Hey there! 👋 I'm <span style="color:#ffffff;">Sohini Roy</span></h1>
