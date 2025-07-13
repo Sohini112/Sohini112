@@ -106,8 +106,6 @@ Most of my hands-on work is showcased here:
 -->
 
 
----
-
 ### 🌟 Current Focus
 
 - 🔍 Seeking roles where I can build scalable, user-focused applications.
@@ -117,23 +115,27 @@ Most of my hands-on work is showcased here:
 
 ---
 
-### 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://twitter.com/sohinir02904469" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter--v1.png" alt="Twitter" width="30" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="https://www.instagram.com/sohini_roy98/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/E1306C/instagram-new--v1.png" alt="Instagram" width="30" height="30" />
-  </a>
-  <a href="mailto:sohini.kol40@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail-new.png" alt="Email" width="30" height="30" />
-  </a>
-</div>
+<!-- ✨ Animated Typing Heading -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F57C00&center=true&width=435&lines=Let's+Connect+%F0%9F%92%AC;Say+Hi+on+Socials+%F0%9F%91%8B" alt="Typing SVG" />
+</h3>
 
+<!-- 🌐 Social Icons with Hover Effects -->
+<p align="center">
+  <a href="mailto:sohini.kol40@gmail.com" target="_blank" title="Email Me">
+    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail-new.png" alt="Gmail" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.linkedin.com/in/sohini-roy-b8b8921b6/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://twitter.com/sohinir02904469" target="_blank" title="Twitter">
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter--v1.png" alt="Twitter" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.instagram.com/sohini_roy98/" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/ios-filled/30/E1306C/instagram-new--v1.png" alt="Instagram" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
 
 ---
 
